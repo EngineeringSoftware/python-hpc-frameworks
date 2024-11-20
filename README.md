@@ -42,6 +42,7 @@ applications in Python.
 * [loopy](https://documen.tician.de/loopy)
 * [mpi4py](https://mpi4py.readthedocs.io)
 * [Numba](https://numba.pydata.org)
+* [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html)
 * [Parla](https://github.com/ut-parla/Parla.py)
 * [Parsl](https://parsl-project.org)
 * [PyCUDA](https://documen.tician.de/pycuda)
@@ -50,3 +51,4 @@ applications in Python.
 * [PyOpenCL](https://developer.nvidia.com/pyopencl)
 * [PyTorch](https://pytorch.org)
 * [Ray](https://www.ray.io)
+* [Taichi Lang](https://github.com/taichi-dev/taichi)
