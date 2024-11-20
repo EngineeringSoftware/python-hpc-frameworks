@@ -35,20 +35,21 @@ portability, and reproducibility.
 ### Frameworks for HPC Python development
 
 Below is an incomplete list of framework for developing HPC
-applications in Python.
+applications in Python and brief descriptions.
 
-* [CuPy](https://cupy.dev)
-* [Dask](https://www.dask.org)
-* [loopy](https://documen.tician.de/loopy)
-* [mpi4py](https://mpi4py.readthedocs.io)
-* [Numba](https://numba.pydata.org)
-* [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html)
-* [Parla](https://github.com/ut-parla/Parla.py)
-* [Parsl](https://parsl-project.org)
-* [PyCUDA](https://documen.tician.de/pycuda)
-* [PyKokkos](https://github.com/kokkos/pykokkos)
-* [PyOMP](https://github.com/Python-for-HPC/PyOMP)
-* [PyOpenCL](https://developer.nvidia.com/pyopencl)
-* [PyTorch](https://pytorch.org)
-* [Ray](https://www.ray.io)
-* [Taichi Lang](https://github.com/taichi-dev/taichi)
+* [CuPy](https://cupy.dev) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
+* [Dask](https://www.dask.org) - Easy parallel Python that does what you need
+* [DaCe](https://github.com/spcl/dace) - Data Centric Parallel Programming
+* [loopy](https://documen.tician.de/loopy) - A code generator for array-based code in the OpenCL/CUDA execution model
+* [mpi4py](https://mpi4py.readthedocs.io) - MPI for Python
+* [Numba](https://numba.pydata.org) - an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code
+* [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html) - An extension to JAX that enables writing custom kernels for GPU and TPU
+* [Parla](https://github.com/ut-parla/Parla.py) - A task-parallel programming library for Python
+* [Parsl](https://parsl-project.org) - Productive parallel programming in Python
+* [PyCUDA](https://documen.tician.de/pycuda) - Pythonic access to Nvidia's CUDA parallel computation API
+* [PyKokkos](https://github.com/kokkos/pykokkos) - Framework for writing performance portable HPC kernels in Python
+* [PyOMP](https://github.com/Python-for-HPC/PyOMP) - OpenMP for Python in Numba for CPU/GPU parallel programming
+* [PyOpenCL](https://developer.nvidia.com/pyopencl) - Lets you access GPUs and other massively parallel compute devices from Python
+* [PyTorch](https://pytorch.org) - An open-source machine learning library based on the Torch library
+* [Ray](https://www.ray.io) - AI Compute Engine
+* [Taichi Lang](https://github.com/taichi-dev/taichi) - Imperative, parallel programming language for high-performance numerical computation
