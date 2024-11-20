@@ -42,7 +42,7 @@ applications in Python and brief descriptions.
 * [DaCe](https://github.com/spcl/dace) - Data Centric Parallel Programming
 * [loopy](https://documen.tician.de/loopy) - A code generator for array-based code in the OpenCL/CUDA execution model
 * [mpi4py](https://mpi4py.readthedocs.io) - MPI for Python
-* [Numba](https://numba.pydata.org) - an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code
+* [Numba](https://numba.pydata.org) - JIT compiler that translates a subset of Python and NumPy code into fast machine code
 * [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html) - An extension to JAX that enables writing custom kernels for GPU and TPU
 * [Parla](https://github.com/ut-parla/Parla.py) - A task-parallel programming library for Python
 * [Parsl](https://parsl-project.org) - Productive parallel programming in Python
