@@ -58,3 +58,8 @@ applications in Python and brief descriptions.
 * [PyTorch](https://pytorch.org) - An open-source machine learning library based on the Torch library
 * [Ray](https://www.ray.io) - AI Compute Engine
 * [Taichi Lang](https://github.com/taichi-dev/taichi) - Imperative, parallel programming language for high-performance numerical computation
+
+### Contact
+
+If you would like to make any addition, feel free to create a PR with
+suggested changes or email Milos Gligoric <gligoric@utexas.edu>.
