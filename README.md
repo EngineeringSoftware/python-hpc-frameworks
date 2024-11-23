@@ -29,6 +29,7 @@ portability, and reproducibility.
 
 * Introduction
 * Lightening talks
+    * [Parla: HPC tasks for shared-memory heterogeneous nodes in Python](slides/Parla.pdf) (Mattan Erez)
     * [PyCOMPSs support to HPC + AI workflows](slides/PyCOMPSs.pdf) (Rosa M. Badia)
     * [PyKokkos: A Performance Portability Framework for Python](slides/PyKokkos.pdf) (Milos Gligoric)
     * [Distributed Tasking in Python with Legion](slides/Legion.pdf) (Elliott Slaughter)
