@@ -49,6 +49,7 @@ applications in Python and brief descriptions.
 * [Dask](https://www.dask.org) - Easy parallel Python that does what you need
 * [DaCe](https://github.com/spcl/dace) - Data Centric Parallel Programming
 * [FlexFlow](https://flexflow.ai) - Drop-in PyTorch, Keras, ONNX interface
+* [lbmpy](https://pypi.org/project/lbmpy) - Run fast fluid simulations based on the lattice Boltzmann method in Python on CPUs and GPUs
 * [loopy](https://documen.tician.de/loopy) - A code generator for array-based code in the OpenCL/CUDA execution model
 * [mpi4py](https://mpi4py.readthedocs.io) - MPI for Python
 * [Numba](https://numba.pydata.org) - JIT compiler that translates a subset of Python and NumPy code into fast machine code
@@ -61,6 +62,7 @@ applications in Python and brief descriptions.
 * [PyKokkos](https://github.com/kokkos/pykokkos) - Framework for writing performance portable HPC kernels in Python
 * [PyOMP](https://github.com/Python-for-HPC/PyOMP) - OpenMP for Python in Numba for CPU/GPU parallel programming
 * [PyOpenCL](https://developer.nvidia.com/pyopencl) - Lets you access GPUs and other massively parallel compute devices from Python
+* [pystencils](https://pypi.org/project/pystencils) - Run blazingly fast stencil codes on numpy arrays
 * [PyTorch](https://pytorch.org) - An open-source machine learning library based on the Torch library
 * [Ray](https://www.ray.io) - AI Compute Engine
 * [Taichi Lang](https://github.com/taichi-dev/taichi) - Imperative, parallel programming language for high-performance numerical computation
