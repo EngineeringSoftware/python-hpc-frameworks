@@ -29,6 +29,10 @@ portability, and reproducibility.
 
 * Introduction
 * Lightening talks
+    * [PyCOMPSs support to HPC + AI workflows](slides/PyCOMPSs.pdf) (Rosa M. Badia)
+    * [PyKokkos: A Performance Portability Framework for Python](slides/PyKokkos.pdf) (Milos Gligoric)
+    * [Distributed Tasking in Python with Legion](slides/Legion.pdf) (Elliott Slaughter)
+    * [cuPyNumeric, Zero code change scaling of NumPy code](slides/cuPyNumeric.pdf) (Manolis Papadakis)
 * Discussion (Q&A)
 
 
