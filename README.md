@@ -1,4 +1,4 @@
-## List of HPC 
+## Python Frameworks for Developing HPC Applications
 
 This repository includes a list of frameworks for HPC Python
 development.
