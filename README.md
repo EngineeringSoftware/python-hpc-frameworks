@@ -14,6 +14,7 @@ applications in Python and brief descriptions.
 * [Dask](https://www.dask.org) - Easy parallel Python that does what you need
 * [DaCe](https://github.com/spcl/dace) - Data Centric Parallel Programming
 * [FlexFlow](https://flexflow.ai) - Drop-in PyTorch, Keras, ONNX interface
+* [JAX](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs
 * [lbmpy](https://pypi.org/project/lbmpy) - Run fast fluid simulations based on the lattice Boltzmann method in Python on CPUs and GPUs
 * [loopy](https://documen.tician.de/loopy) - A code generator for array-based code in the OpenCL/CUDA execution model
 * [mpi4py](https://mpi4py.readthedocs.io) - MPI for Python
