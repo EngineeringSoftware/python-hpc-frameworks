@@ -46,6 +46,7 @@ applications in Python and brief descriptions.
 * [Charm4py](https://charm4py.readthedocs.io) - Charm++ programming model in Python
 * [CuPy](https://cupy.dev) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 * [cuPyNumeric](https://developer.nvidia.com/cupynumeric) - Write NumPy, run automatically on clusters of CPUs and GPUs
+* [CUTLASS](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 * [Dask](https://www.dask.org) - Easy parallel Python that does what you need
 * [DaCe](https://github.com/spcl/dace) - Data Centric Parallel Programming
 * [FlexFlow](https://flexflow.ai) - Drop-in PyTorch, Keras, ONNX interface
@@ -66,6 +67,7 @@ applications in Python and brief descriptions.
 * [PyTorch](https://pytorch.org) - An open-source machine learning library based on the Torch library
 * [Ray](https://www.ray.io) - AI Compute Engine
 * [Taichi Lang](https://github.com/taichi-dev/taichi) - Imperative, parallel programming language for high-performance numerical computation
+* [Triton](https://triton-lang.org/main/index.html) - Language and compiler for writing high-performance custom kernels that run on GPUs
 
 ### Contact
 
