@@ -6,7 +6,7 @@ development.
 Below is an incomplete list of framework for developing HPC
 applications in Python and brief descriptions.
 
-* [Arkouda](https://arkouda-www.github.io/) - A numpy/pandas inspired Python library backed by Chapel
+* [Arkouda](https://arkouda-www.github.io/) - A NumPy/Pandas inspired Python library backed by Chapel
 * [Charm4py](https://charm4py.readthedocs.io) - Charm++ programming model in Python
 * [CuPy](https://cupy.dev) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 * [cuPyNumeric](https://developer.nvidia.com/cupynumeric) - Write NumPy, run automatically on clusters of CPUs and GPUs
@@ -28,7 +28,7 @@ applications in Python and brief descriptions.
 * [PyKokkos](https://github.com/kokkos/pykokkos) - Framework for writing performance portable HPC kernels in Python
 * [PyOMP](https://github.com/Python-for-HPC/PyOMP) - OpenMP for Python in Numba for CPU/GPU parallel programming
 * [PyOpenCL](https://developer.nvidia.com/pyopencl) - Lets you access GPUs and other massively parallel compute devices from Python
-* [pystencils](https://pypi.org/project/pystencils) - Run blazingly fast stencil codes on numpy arrays
+* [pystencils](https://pypi.org/project/pystencils) - Run blazingly fast stencil codes on NumPy arrays
 * [PyTorch](https://pytorch.org) - An open-source machine learning library based on the Torch library
 * [Ray](https://www.ray.io) - AI Compute Engine
 * [Taichi Lang](https://github.com/taichi-dev/taichi) - Imperative, parallel programming language for high-performance numerical computation
