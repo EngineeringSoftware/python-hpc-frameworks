@@ -6,7 +6,7 @@ development.
 Below is an incomplete list of framework for developing HPC
 applications in Python and brief descriptions.
 
-* [Arkouda](https://arkouda-www.github.io/) - A numpy/pandas inspired Python library backed by [Chapel](https://chapel-lang.org/)
+* [Arkouda](https://arkouda-www.github.io/) - A numpy/pandas inspired Python library backed by Chapel
 * [Charm4py](https://charm4py.readthedocs.io) - Charm++ programming model in Python
 * [CuPy](https://cupy.dev) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 * [cuPyNumeric](https://developer.nvidia.com/cupynumeric) - Write NumPy, run automatically on clusters of CPUs and GPUs
